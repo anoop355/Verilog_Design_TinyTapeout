@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        ""       Trinidad y Tobago
-  author:       ""       Anoop Basdeo
-  discord:      ""       anoop355
-  description:  ""       The Trinidadian flag bouncing around the screen.
+  title:        "Trinidad y Tobago"
+  author:       "Anoop Basdeo"
+  discord:      "anoop._."
+  description:  "The Trinidadian flag bouncing around the screen."
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
